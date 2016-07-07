@@ -1,3 +1,10 @@
+---
+title: Utiliser LiberaPay pour rétribuer des communs
+description: Une fiche pour découvrir un outil de dons réccurents en vu de rétribuer les contributions autour de Communs.
+image_url:https://framapic.org/z0pMTGstZk6o/qZOlYD3KppFR.jpg
+---
+
+
 # Utiliser LiberaPay pour rétribuer des communs
 
 Fiche sous licence CC0 - Romain Lalande
