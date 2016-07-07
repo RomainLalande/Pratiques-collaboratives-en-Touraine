@@ -1,3 +1,11 @@
+---
+title: Les listes de discussion
+description: Une fiche pour découvrir les nombreux intérêts des listes de discussions pour s'organiser et communiquer à plusieurs et à distance. Vous y trouverez des règles d'usages et un tutoriel de création de listes.
+image_url:https://framapic.org/7acC0VRkaukU/G34fqiDdU4ln.jpeg
+---
+
+
+
 # Les listes de discussion
 CC By SA Romain Lalande - Sur la base d'une présentation de Marika Bernier
 
