@@ -1,3 +1,10 @@
+---
+title: OpenAgenda : agendas événementiel collaboratifs et ouverts
+description: Une fiche pour découvrir les agendas collaboratifs ouverts avec OpenAgenda : pour créer des agendas événementiels pour son collectif ou son territoire, en en faisant bénéficier tout le monde !
+image_url:https://framapic.org/sWsZ7Qk63OyB/LMjTfhT5byqN.png
+---
+
+
 Fiche sous licence CC0 - Romain Lalande et Sarah Gaucher
 # OpenAgenda : agendas collaboratifs ouverts
 
