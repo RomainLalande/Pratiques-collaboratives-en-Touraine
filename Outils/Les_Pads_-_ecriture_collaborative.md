@@ -1,7 +1,14 @@
+---
+title: Le Pad, outil d'écriture collaborative 
+description: Une fiche pour découvrir différents usages et règles d'utilisation possibles de l'écriture collaborative à travers les Pads, que ce soit durant des rencontres physique ou bien à distance.
+image_url:https://framapic.org/4DoSNGujHQP5/AtOnAIAaRSvD.png
+---
+
+
 Fiche sous licence CC0 - Romain Lalande
 # Le Pad, outil d'écriture collaborative 
 
-## Qu'est-ce qu'un Pad, pour quels usages ? 
+## Qu'est-ce qu'un Pad ? 
 
 C'est un document collaboratif en ligne où chacun peut écrire simultanément:
 - Chacun dispose d'une couleur pour écrire
